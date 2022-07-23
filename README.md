@@ -10,5 +10,6 @@
 <h2> App Flow Chart </h2>
 <img src="Mapty-flowchart.png">
 <h2> App Architecture </h2>
+<img src="Mapty-architecture-final.png">
 
 
