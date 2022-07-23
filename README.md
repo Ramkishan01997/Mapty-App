@@ -13,6 +13,6 @@
 <img src="Mapty-architecture-final.png">
 <h2> App UI </h2>
 <img src="https://user-images.githubusercontent.com/91331117/180597178-29e58d79-67bc-4fce-8abd-e888f545f946.png">
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trisham&repo=github-readme-stats)](https://github.com/trisham/github-readme-stats)
 
 
