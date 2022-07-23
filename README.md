@@ -6,4 +6,5 @@
   <li> Geolocation Web API </li>
   <li> Leaflet JS Library </li>
   </ol>
-  
+<h2> App Flow Chart </h2>
+<img src=""
