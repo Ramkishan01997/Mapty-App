@@ -7,4 +7,5 @@
   <li> Leaflet JS Library </li>
   </ol>
 <h2> App Flow Chart </h2>
-<img src=""
+<img src="Mapty-flowchart.png">
+
