@@ -11,5 +11,8 @@
 <img src="Mapty-flowchart.png">
 <h2> App Architecture </h2>
 <img src="Mapty-architecture-final.png">
+<h2> App UI </h2>
+![image](https://user-images.githubusercontent.com/91331117/180597178-29e58d79-67bc-4fce-8abd-e888f545f946.png)
+
 
 
